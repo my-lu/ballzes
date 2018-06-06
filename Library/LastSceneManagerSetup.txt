@@ -1,4 +1,0 @@
-sceneSetups:
-- path: D:/unity projects/FPStester/Assets/Scenes/lobby.unity
-  isLoaded: 1
-  isActive: 1
